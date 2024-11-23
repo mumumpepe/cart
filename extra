@@ -1,0 +1,7 @@
+    $userId = $row["userid"];
+    $productId = $row["product_id"];
+    $productName = $row["product_name"];
+    $productImage = $row["product_image"];
+    $unityPrice = $row["unity_price"];
+    $discountPercentage = $row["discount_percentage"];
+    $newPrice = $row["new_price"];
